@@ -1,78 +1,61 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi 👋, I'm Sahir Alzakaria</h1>
+<h3 align="center">A Passionate Flutter Developer & Mobile App Creator</h3>
 
-Hi, I'm **Sahir Alzakaria**, a passionate **Flutter Developer** with a knack for building beautiful, high-performance mobile applications for iOS and Android. I love turning ideas into reality through clean code, intuitive UI/UX, and innovative solutions. This README showcases my skills, tools, and projects—stick around to explore! 🚀
-
----
-
-## 🌟 About Me
-- 🎓 **Background**: Skilled in crafting cross-platform mobile applications using **Flutter** and **Dart**, with a focus on delivering seamless user experiences.
-- 💡 **Passion**: Building scalable, maintainable, and visually appealing apps that solve real-world problems.
-- 🌍 **Location**: [Your Location, e.g., Dubai, UAE]
-- 🛠 **Currently Working On**: Enhancing my expertise in state management, animations, and backend integration with Flutter.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+Developer;Cross-platform+App+Builder;AI+&+Tech+Lover;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=00A3FF&vCenter=true&pause=1000&size=22" />
+</p>
 
 ---
 
-## 🛠 Skills & Technologies
-Here’s a snapshot of the tools and technologies I work with:
+## 🚀 About Me
 
-### 📱 Flutter & Dart
-- **UI/UX Development**: Creating pixel-perfect, responsive interfaces with Flutter widgets.
-- **State Management**: Proficient in Provider, Riverpod, Bloc, and GetX for robust app architecture.
-- **Animations**: Building smooth and engaging animations using Flutter’s animation framework.
-- **API Integration**: Connecting apps to RESTful APIs and GraphQL for dynamic data.
-- **Testing**: Writing unit, widget, and integration tests to ensure app reliability.
+- 💻 I'm a mobile developer specialized in building beautiful and scalable apps using **Flutter**.
+- 🎯 Focused on delivering performance, clean UI, and solid architecture.
+- 🧠 Passionate about **AI integration**, productivity tools, and solving real-world problems with tech.
+- 📱 Developing cross-platform applications for both Android & iOS.
 
-### 🔧 Other Tools & Technologies
-- **Backend**: Firebase, Node.js, Supabase
-- **Version Control**: Git, GitHub, GitLab
-- **CI/CD**: GitHub Actions, Codemagic
-- **Design Tools**: Figma, Adobe XD
-- **Databases**: SQLite, Firestore, MongoDB
-- **Other Languages**: Python, JavaScript, TypeScript
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-40C4FF?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-60D394?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-![Sahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahiralzakaria&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahiralzakaria&layout=compact&theme=radical)
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahiralzakaria&show_icons=true&theme=tokyonight&hide_title=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiralzakaria&theme=tokyonight" width="48%"/>
+</p>
 
-## 🏆 Featured Projects
-Here are some of my favorite projects that showcase my Flutter expertise:
-
-- **[Project Name 1](https://github.com/sahiralzakaria/project1)**  
-  A cross-platform app built with Flutter, featuring [e.g., real-time chat, e-commerce functionality, etc.].  
-  **Tech Stack**: Flutter, Firebase, Provider, REST API  
-  [![GitHub stars](https://img.shields.io/github/stars/sahiralzakaria/project1?style=social)](https://github.com/sahiralzakaria/project1)
-
-- **[Project Name 2](https://github.com/sahiralzakaria/project2)**  
-  A [describe project, e.g., task management app] with advanced animations and offline support.  
-  **Tech Stack**: Flutter, SQLite, Bloc, Figma  
-  [![GitHub stars](https://img.shields.io/github/stars/sahiralzakaria/project2?style=social)](https://github.com/sahiralzakaria/project2)
-
-Explore more of my work in the [Repositories](https://github.com/sahiralzakaria?tab=repositories) tab!
-
----
-
-## 🚀 What I’m Learning
-- Diving deeper into **Flutter Web** for cross-platform web applications.
-- Exploring **GraphQL** for efficient API queries.
-- Experimenting with **AR/VR** integrations in Flutter using packages like ARKit and ARCore.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiralzakaria&layout=compact&theme=tokyonight&langs_count=8" width="48%"/>
+</p>
 
 ---
 
 ## 📬 Contact
-Feel free to connect with me:  
+
+Feel free to connect with me:
+
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/sahiralzakaria) **GitHub:** [sahiralzakaria](https://github.com/sahiralzakaria)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahir-zakaria-39873531b) **LinkedIn:** [sahir-zakaria](https://www.linkedin.com/in/sahir-zakaria-39873531b)  
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahir.alzakaria@gmail.com) **Email:** sahir.alzakaria@gmail.com
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahir.alzakaria@gmail.com) **Email:** sahir.alzakaria@gmail.com  
 
 ---
 
-## 🎉 Fun Facts
-- ☕ I fuel my coding sessions with strong coffee and good music.
-- 🌱 I’m a lifelong learner, always exploring new tech trends.
-- 🎮 In my free time, I enjoy building small games with Flutter.
-
-Thanks for visiting my profile! Feel free to star ⭐ my repositories or reach out for collaboration opportunities. Let’s build something amazing together! 💻
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sahiralzakaria/count.svg" />
+</p>
