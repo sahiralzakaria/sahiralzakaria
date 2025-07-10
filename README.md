@@ -164,12 +164,5 @@ Feel free to reach out for collaboration, Flutter discussions, or just to say he
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sahiralzakaria/count.svg" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</div>
 
 **⭐ Star my repositories if you find them helpful!**
