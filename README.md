@@ -44,18 +44,18 @@
 ## 🎯 Flutter Expertise
 
 ### 🔥 Core Skills
-- **🎨 UI/UX Development**: Creating beautiful, responsive interfaces
-- **⚡ State Management**: Provider, Riverpod, BLoC patterns
-- **🔄 API Integration**: REST APIs, GraphQL, real-time data
-- **💾 Local Storage**: SQLite, Hive, SharedPreferences
-- **🚀 Performance**: Optimization and best practices
+- **🎨 UI/UX Development**: Creating beautiful, responsive interfaces  
+- **⚡ State Management**: Provider, Riverpod, BLoC patterns  
+- **🔄 API Integration**: REST APIs, GraphQL, real-time data  
+- **💾 Local Storage**: SQLite, Hive, SharedPreferences  
+- **🚀 Performance**: Optimization and best practices  
 
 ### 📱 Specialized Areas
-- **🌟 Custom Animations**: Hero animations, implicit/explicit animations
-- **🔧 Plugin Development**: Creating custom Flutter plugins
-- **🎯 Architecture**: Clean architecture, MVVM, Repository pattern
-- **✅ Testing**: Unit testing, widget testing, integration testing
-- **🔐 Security**: Authentication, encryption, secure storage
+- **🌟 Custom Animations**: Hero animations, implicit/explicit animations  
+- **🔧 Plugin Development**: Creating custom Flutter plugins  
+- **🎯 Architecture**: Clean architecture, MVVM, Repository pattern  
+- **✅ Testing**: Unit testing, widget testing, integration testing  
+- **🔐 Security**: Authentication, encryption, secure storage  
 
 ### 📦 Favorite Packages
 ```dart
@@ -83,6 +83,22 @@ dependencies:
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahiralzakaria&theme=tokyonight&title=Repositories,Commits,Stars,Followers" />
+</p>
+
+---
+
+## 📌 Highlighted Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,vscode,git,figma" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -90,11 +106,15 @@ dependencies:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahiralzakaria&theme=tokyonight" width="48%"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiralzakaria&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss&custom_title=Primary%20Languages" width="48%"/>
-</div>
+---
 
-> **Note:** GitHub language stats may not fully reflect my current focus on Flutter development due to repository composition.
+## 📊 Language Focus (Accurate View)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahiralzakaria&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,scss,csharp,aspx&custom_title=Primary%20Languages%20(Focus%20on%20Flutter)" width="48%"/>
+</p>
+
+> **Note:** These stats are adjusted to reflect my Flutter & Dart focus.
 
 ---
 
@@ -102,10 +122,10 @@ dependencies:
 
 <div align="center">
 
-### 📱 Project Categories
+### 📱 Project Categories  
 🛒 **E-commerce Apps** • 🏥 **Healthcare Solutions** • 📚 **Educational Platforms** • 💼 **Business Tools**
 
-### 🎯 Development Focus
+### 🎯 Development Focus  
 🎨 **Beautiful UIs** • ⚡ **Performance** • 🔧 **Clean Architecture** • 🧪 **Testing**
 
 </div>
@@ -114,10 +134,10 @@ dependencies:
 
 ## 🌟 What I'm Working On
 
-- 🔨 Building innovative Flutter applications with **AI integration**
-- 🎯 Exploring **advanced animation techniques** and **custom widgets**
-- 📱 Developing **cross-platform solutions** for real-world problems
-- 🤖 Integrating **machine learning** models into Flutter apps
+- 🔨 Building innovative Flutter applications with **AI integration**  
+- 🎯 Exploring **advanced animation techniques** and **custom widgets**  
+- 📱 Developing **cross-platform solutions** for real-world problems  
+- 🤖 Integrating **machine learning** models into Flutter apps  
 - 🔧 Contributing to **open-source Flutter packages**
 
 ---
@@ -134,10 +154,10 @@ dependencies:
 
 ## 📈 Current Learning Path
 
-- 🎯 **Advanced Flutter Animations**
-- 🧠 **AI/ML Integration in Flutter**
-- 🔧 **Custom Plugin Development**
-- 🏗️ **Microservices Architecture**
+- 🎯 **Advanced Flutter Animations**  
+- 🧠 **AI/ML Integration in Flutter**  
+- 🔧 **Custom Plugin Development**  
+- 🏗️ **Microservices Architecture**  
 - 🎨 **Advanced UI/UX Patterns**
 
 ---
@@ -163,6 +183,5 @@ Feel free to reach out for collaboration, Flutter discussions, or just to say he
 </div>
 
 ---
-
 
 **⭐ Star my repositories if you find them helpful!**
