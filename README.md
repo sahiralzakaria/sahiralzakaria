@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahir Alzakaria</h1>
+<h1 align="center">Hi 👋, I'm Sahir Zakaria</h1>
 <h3 align="center">Computer Engineer | İnönü University Graduate | Flutter App Developer</h3>
 
 <p align="center">
