@@ -15,10 +15,22 @@ I'm a Computer Engineer from İnönü University, Turkey. I specialize in mobile
 
 ## 🛠️ Tech Stack
 
-- Flutter, Dart  
-- Firebase  
-- Provider, Riverpod, BLoC  
-- Git, VS Code  
+- Flutter - Cross-platform mobile development 
+- Dart - Programming language 
+- Firebase - Backend services
+- State Management - Provider, Riverpod, BLoC
+- Git - Version control
+
+---
+
+## Skills
+
+- UI/UX Development
+- API Integration
+- Local Storage (SQLite, Hive)
+- Custom Animations
+- Clean Architecture
+- Testing
 
 ---
 
