@@ -11,6 +11,7 @@ I'm a Computer Engineer from İnönü University, Turkey. I specialize in mobile
 - 💻 Cross-platform apps for Android & iOS  
 - 🌱 Currently learning more about Flutter animations and state management  
 
+
 ---
 
 ## 🛠️ Tech Stack
