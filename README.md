@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahir Zakaria</h1>
 <h3 align="center">Flutter Developer | Computer Engineer</h3>
 
-
 ---
 
 ## 🚀 About Me
