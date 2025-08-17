@@ -5,6 +5,7 @@
 
 ## 🚀 About Me
 
+
 I'm a Computer Engineer from İnönü University, Turkey. I specialize in mobile app development using Flutter and Dart.
 
 - 📱 Flutter & Dart Developer  
