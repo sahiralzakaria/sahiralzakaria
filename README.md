@@ -24,8 +24,6 @@ I'm a Computer Engineer from İnönü University, Turkey. I specialize in mobile
 
 ---
 
-
-
 ## Skills
 
 - UI/UX Development
