@@ -35,6 +35,7 @@ I'm a Computer Engineer from İnönü University, Turkey. I specialize in mobile
 
 ---
 
+
 ## 📬 Contact Me
 
 - [GitHub](https://github.com/sahiralzakaria)  
