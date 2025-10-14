@@ -1,47 +1,46 @@
-<h1 align="center">Hi 👋, I'm Sahir Zakaria</h1>
-<h3 align="center">Flutter Developer | Computer Engineer</h3>
+<h1 align="center">👋 Hi, I'm Sahir Zakaria</h1>
+<h3 align="center">Computer Engineer | Beginner Front-End Developer</h3>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a Computer Engineer from İnönü University, Turkey. I specialize in mobile app development using Flutter and Dart.
+I'm a **Computer Engineer** graduate from **İnönü University, Turkey**.  
+I’m currently learning **Front-End Development**, focusing on **HTML, CSS, JavaScript, and React.js**.  
 
-- 📱 Flutter & Dart Developer  
-- 💻 Cross-platform apps for Android & iOS  
-- 🌱 Currently learning more about Flutter animations and state management  
+I also have experience in **mobile app development** using **Flutter**, and I have worked on several university and personal projects.  
+I enjoy learning new technologies and improving my programming skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Flutter - Cross-platform mobile development 
-- Dart - Programming language 
-- Firebase - Backend services
-- State Management - Provider, Riverpod, BLoC
-- Git - Version control
+### 💻 Front-End Development (Currently Learning)
+- HTML5 / CSS3 / JavaScript (ES6+)  
+- React.js (Components, Hooks, Routing)  
+- Responsive Web Design & Basic UI/UX Principles  
+
+### 📱 Mobile App Development
+- Flutter / Dart  
+- Firebase Integration  
+- Cross-Platform Development (Android & iOS)  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub (Version Control)  
+- RESTful APIs  
+- Basic State Management (Provider, BLoC)  
 
 ---
 
-
-## Skills
-
-- UI/UX Development
-- API Integration
-- Local Storage (SQLite, Hive)
-- Custom Animations
-- Clean Architecture
-- Testing
+##  Goals
+- Improve my front-end skills  
+- Build modern and responsive websites  
+- Learn more about React.js and UI design  
 
 ---
-
 
 ## 📬 Contact Me
 
-- [GitHub](https://github.com/sahiralzakaria)  
-- [LinkedIn](https://www.linkedin.com/in/sahir-zakaria-39873531b)  
-- [Email](mailto:sahir.alzakaria@gmail.com)  
-
----
-
-⭐ Feel free to check out my repositories!
+- 🌐 [GitHub](https://github.com/sahiralzakaria)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahir-zakaria-39873531b)  
+- 📧 [Email](mailto:sahir.alzakaria@gmail.com)  
