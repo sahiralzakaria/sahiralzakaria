@@ -1,46 +1,47 @@
 <h1 align="center">👋 Hi, I'm Sahir Zakaria</h1>
-<h3 align="center">Computer Engineer | Beginner Front-End Developer</h3>
+<h3 align="center">Front-End Developer | Computer Engineer</h3>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Computer Engineer** graduate from **İnönü University, Turkey**.  
-I’m currently learning **Front-End Development**, focusing on **HTML, CSS, JavaScript, and React.js**.  
+I'm a **Front-End Developer** and **Computer Engineer** passionate about building modern, responsive, and user-friendly web interfaces.  
+I specialize in **HTML, CSS, JavaScript, and React.js**, and I focus on writing clean, efficient, and scalable code.
 
-I also have experience in **mobile app development** using **Flutter**, and I have worked on several university and personal projects.  
-I enjoy learning new technologies and improving my programming skills.
+I enjoy creating interactive web apps, improving UI/UX experiences, and exploring new technologies that enhance the front-end development workflow.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Front-End Development (Currently Learning)
-- HTML5 / CSS3 / JavaScript (ES6+)  
-- React.js (Components, Hooks, Routing)  
-- Responsive Web Design & Basic UI/UX Principles  
-
-### 📱 Mobile App Development
-- Flutter / Dart  
-- Firebase Integration  
-- Cross-Platform Development (Android & iOS)  
+### 💻 Front-End Development
+- HTML5, CSS3, JavaScript (ES6+)  
+- React.js (Hooks, Context API, Routing)  
+- Responsive Web Design  
+- TailwindCSS  
+- Component-Based Architecture  
 
 ### ⚙️ Tools & Technologies
-- Git & GitHub (Version Control)  
+- Git & GitHub  
 - RESTful APIs  
-- Basic State Management (Provider, BLoC)  
+- Axios / Fetch  
+- Vite / Webpack  
+
+### 📱 Additional Experience
+- Firebase (Auth, Firestore, Storage)  
+- Basic Graphic Design (Photoshop / Canva)
 
 ---
 
-##  Goals
-- Improve my front-end skills  
-- Build modern and responsive websites  
-- Learn more about React.js and UI design  
+## 🎯 Goals
+- Build high-quality, production-ready front-end projects  
+- Strengthen React.js skills (performance, patterns, ecosystem)  
+- Learn advanced concepts in UI/UX and front-end architecture  
 
 ---
 
 ## 📬 Contact Me
 
-- 🌐 [GitHub](https://github.com/sahiralzakaria)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sahir-zakaria-39873531b)  
-- 📧 [Email](mailto:sahir.alzakaria@gmail.com)  
+- 🌐 GitHub: [github.com/sahiralzakaria](https://github.com/sahiralzakaria)  
+- 💼 LinkedIn: [Sahir Zakaria](https://www.linkedin.com/in/sahir-zakaria-39873531b)  
+- 📧 Email: [sahir.alzakaria@gmail.com](mailto:sahir.alzakaria@gmail.com)
