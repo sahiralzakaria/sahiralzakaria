@@ -1,56 +1,52 @@
 <h1 align="center">👋 Hi, I'm Sahir Zakaria</h1>
-<h3 align="center">Front-End Developer | Computer Engineer</h3>
+<h3 align="center">Computer Engineer | Graduate Student | Academic Researcher</h3>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Front-End Developer** and **Computer Engineer** constantly working to sharpen my skills and build fast, modern, and user-friendly web applications.  
-I recently expanded my knowledge in **React**, **TailwindCSS**, and **Next.js**, enabling me to create highly optimized and production-ready interfaces.
+I'm a **Computer Engineer**, **Graduate Student in Computer Engineering**, and **Academic Researcher** with a strong interest in technology, research, and innovation.
 
-I’m passionate about clean code, smooth user experiences, and leveraging modern frameworks to develop scalable and maintainable projects.
+I’m passionate about exploring emerging technologies, developing new ideas, and applying computer engineering concepts to solve real-world problems.
+
+My interests span **Artificial Intelligence**, **Computer Engineering**, **Research & Development**, and emerging technologies. I’m continuously expanding my knowledge through academic study, independent learning, and research.
+
+I aspire to contribute to meaningful research and develop useful solutions that help advance **technology and scientific research across different fields**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Research & Interests
 
-### 💻 Front-End Development
-- HTML5, CSS3, JavaScript (ES6+)  
-- **React.js** (Hooks, Context API, Router)  
-- **Next.js** (App Router, SSR/SSG, API Routes)  
-- **TailwindCSS** (Utility-first styling, responsive design)  
-- Component-Based Architecture  
-- Responsive & Adaptive Design  
+* 🤖 Artificial Intelligence & Machine Learning
+* 💻 Computer Engineering & Computer Science
+* 🔬 Academic Research & Scientific Development
+* 🚀 Technology & Innovation
+* 🧠 Emerging Technologies
+* 🛠️ Research & Development
+* 🌐 Interdisciplinary Applications of Technology
 
-### 🔄 State Management
-- Context API  
-- Zustand  
-- React Query
+---
 
-### ⚙️ Tools & Technologies
-- Git & GitHub  
-- REST APIs  
-- Axios / Fetch  
-- Vite / Webpack  
-- Postman  
+## 🎓 Education
 
-### 📱 Additional Experience
-- Firebase (Auth, Firestore, Storage)  
-- Basic Graphic Design (Photoshop / Canva)
+* 🎓 **M.Sc. in Computer Engineering** — Graduate Student
+* 🎓 **B.Sc. in Computer Engineering** — İnönü University, Türkiye
 
 ---
 
 ## 🎯 Current Goals
-- Build fully optimized front-end applications using **Next.js**  
-- Improve client & server state management  
-- Learn advanced UI/UX patterns and performance techniques  
-- Explore scalable architecture patterns for large React projects  
+
+* Pursue meaningful **academic research** in Computer Engineering
+* Explore the applications of **Artificial Intelligence** and emerging technologies
+* Develop innovative solutions to real-world problems
+* Strengthen my research and scientific skills
+* Contribute to useful research that advances **technology and scientific knowledge**
+* Continue developing as a **researcher, engineer, and lifelong learner**
 
 ---
 
 ## 📬 Contact Me
 
-- 🌐 GitHub: [github.com/sahiralzakaria](https://github.com/sahiralzakaria)  
-- 💼 LinkedIn: [Sahir Zakaria](https://www.linkedin.com/in/sahir-zakaria-39873531b)  
-- 📧 Email: [sahir.alzakaria@gmail.com](mailto:sahir.alzakaria@gmail.com)
-
+* 🌐 GitHub: [github.com/sahiralzakaria](https://github.com/sahiralzakaria)
+* 💼 LinkedIn: [Sahir Zakaria](https://www.linkedin.com/in/sahir-zakaria-39873531b)
+* 📧 Email: [sahir.alzakaria@gmail.com](mailto:sahir.alzakaria@gmail.com)
